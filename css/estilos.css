@@ -1,0 +1,65 @@
+body {
+    margin: 0px;
+    font-family: 'trebuchet ms';
+    font-size: 20px;
+}
+header {
+    background-color: rgb(70, 55, 55);
+    text-align: center;
+    color: rgb(223, 221, 221);
+    font-family: 'Trebuchet MS';
+    font-size: 60px;
+    text-shadow: 2px 2px 4px black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+nav {
+    background-color: rgb(103, 48, 48);
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+nav a {
+    color: rgb(223, 221, 221);
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    
+}
+nav a:hover {
+    color: rgb(48, 47, 47);
+    font-weight: bold;
+}
+#interna {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    text-align: justify;
+}
+#titulo {
+    padding-left: 50px;
+}
+#img-text {
+    width: 400px;
+}
+#img-text2 {
+    width: 480px;
+}
+#interna2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+footer {
+    background-color: rgb(70, 55, 55);
+    text-align: center;
+    color: rgb(223, 221, 221);
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+    text-shadow: 2px 2px 4px black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#rt {
+    color: rgb(48, 47, 47);
+    font-weight: bold;
+    text-decoration: none;
+}
